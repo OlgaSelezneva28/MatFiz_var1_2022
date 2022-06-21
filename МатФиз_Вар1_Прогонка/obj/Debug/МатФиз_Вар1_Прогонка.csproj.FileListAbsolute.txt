@@ -1,0 +1,9 @@
+c:\users\acer\documents\visual studio 2012\Projects\МатФиз_Вар1_Прогонка\МатФиз_Вар1_Прогонка\bin\Debug\МатФиз_Вар1_Прогонка.exe.config
+c:\users\acer\documents\visual studio 2012\Projects\МатФиз_Вар1_Прогонка\МатФиз_Вар1_Прогонка\bin\Debug\МатФиз_Вар1_Прогонка.exe
+c:\users\acer\documents\visual studio 2012\Projects\МатФиз_Вар1_Прогонка\МатФиз_Вар1_Прогонка\bin\Debug\МатФиз_Вар1_Прогонка.pdb
+c:\users\acer\documents\visual studio 2012\Projects\МатФиз_Вар1_Прогонка\МатФиз_Вар1_Прогонка\obj\Debug\МатФиз_Вар1_Прогонка.csprojResolveAssemblyReference.cache
+c:\users\acer\documents\visual studio 2012\Projects\МатФиз_Вар1_Прогонка\МатФиз_Вар1_Прогонка\obj\Debug\МатФиз_Вар1_Прогонка.Form1.resources
+c:\users\acer\documents\visual studio 2012\Projects\МатФиз_Вар1_Прогонка\МатФиз_Вар1_Прогонка\obj\Debug\МатФиз_Вар1_Прогонка.Properties.Resources.resources
+c:\users\acer\documents\visual studio 2012\Projects\МатФиз_Вар1_Прогонка\МатФиз_Вар1_Прогонка\obj\Debug\МатФиз_Вар1_Прогонка.csproj.GenerateResource.Cache
+c:\users\acer\documents\visual studio 2012\Projects\МатФиз_Вар1_Прогонка\МатФиз_Вар1_Прогонка\obj\Debug\МатФиз_Вар1_Прогонка.exe
+c:\users\acer\documents\visual studio 2012\Projects\МатФиз_Вар1_Прогонка\МатФиз_Вар1_Прогонка\obj\Debug\МатФиз_Вар1_Прогонка.pdb
